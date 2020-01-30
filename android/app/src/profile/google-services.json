@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "215218994383",
+    "firebase_url": "https://rekber-white-koala.firebaseio.com",
+    "project_id": "rekber-white-koala",
+    "storage_bucket": "rekber-white-koala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215218994383:android:640e18e985714a8a17cbba",
+        "android_client_info": {
+          "package_name": "com.uniquelypresent.experimental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215218994383-iucvacpdf5g96ruic3ikjc9d70maot69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtooPZdMR2jIqbO4oOswsSzAS2aYvriDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215218994383-iucvacpdf5g96ruic3ikjc9d70maot69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215218994383:android:b25465cb1baf2ab417cbba",
+        "android_client_info": {
+          "package_name": "com.uniquelypresent.my_playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215218994383-iucvacpdf5g96ruic3ikjc9d70maot69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtooPZdMR2jIqbO4oOswsSzAS2aYvriDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215218994383-iucvacpdf5g96ruic3ikjc9d70maot69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215218994383:android:33147a440461b8fc17cbba",
+        "android_client_info": {
+          "package_name": "com.uniquelypresent.playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215218994383-iucvacpdf5g96ruic3ikjc9d70maot69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtooPZdMR2jIqbO4oOswsSzAS2aYvriDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215218994383-iucvacpdf5g96ruic3ikjc9d70maot69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
